@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, STR SG. CONSTANTIN GHERCU, NR.1A, CLADIREA THE BRIDGE 2, ET.1 |
 | Website | [https://www.synevo.ro](https://www.synevo.ro) |
 | Careers | [https://www.synevo.ro/cariere](https://www.synevo.ro/cariere) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-11-22T14:02:09.501041+00:00_
+_Generated: 2026-11-23T17:23:21.829158+00:00_
 
 ### Asistent medical generalist: recoltare probe
 
@@ -44,13 +44,6 @@ _Generated: 2026-11-22T14:02:09.501041+00:00_
 - **Location:** București
 - **Status:** scraped
 
-### Biolog/ Biochimist: dep. Imunologie
-
-- **URL:** [https://www.synevo.ro/cariere/biolog-biochimist-imunologie/](https://www.synevo.ro/cariere/biolog-biochimist-imunologie/)
-- **Work Mode:** on-site
-- **Location:** București
-- **Status:** scraped
-
 ### Biolog/ Biochimist: dep. Microbiologie
 
 - **URL:** [https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/](https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/)
@@ -75,6 +68,13 @@ _Generated: 2026-11-22T14:02:09.501041+00:00_
 ### Medic specialist/primar Medicină de laborator
 
 - **URL:** [https://www.synevo.ro/cariere/medic-specialistprimar-medicina-de-laborator/](https://www.synevo.ro/cariere/medic-specialistprimar-medicina-de-laborator/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Compensation & Benefits Specialist
+
+- **URL:** [https://www.synevo.ro/cariere/compensation-and-benefits-specialist/](https://www.synevo.ro/cariere/compensation-and-benefits-specialist/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
