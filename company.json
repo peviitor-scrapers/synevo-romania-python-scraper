@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-11-23T17:23:10.148687+00:00",
+  "validatedAt": "2026-11-24T16:57:24.998890+00:00",
   "source": "ANAF",
   "brand": "SYNEVO",
   "anaf": {
@@ -63,23 +63,19 @@
     "onrcStatusLabel": "Funcțiune"
   },
   "peviitor": {
-    "id": "06479639",
+    "id": "6479639",
     "company": "SYNEVO ROMANIA SRL",
     "brand": "SYNEVO",
     "status": "activ",
     "location": [
-      "MUNICIPIUL BUCUREŞTI, SECTOR 6, STR SG. CONSTANTIN GHERCU, NR.1A, CLADIREA THE BRIDGE 2, ET.1"
+      "Bucureşti Sectorul 6"
     ],
     "website": [
       "https://www.synevo.ro"
     ],
-    "career": [
-      "https://www.synevo.ro/cariere"
-    ],
-    "lastScraped": "2026-11-22",
-    "scraperFile": "https://github.com/peviitor-scrapers/synevo-romania-python-scraper/actions/workflows/scrape.yml",
-    "_version_": 1882567339636948992,
-    "_root_": "06479639"
+    "lastScraped": "2026-08-07",
+    "_version_": 1882595624603353088,
+    "_root_": "6479639"
   },
   "summary": {
     "company": "SYNEVO ROMANIA SRL",
